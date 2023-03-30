@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Lab_1</string>
-    <string name="hello_blank_fragment">Да, я кнопка!</string>
-    <string name="Button">Нажми на меня </string>
-    <string name="Text">Делай что тебе говорят</string>
-</resources>
